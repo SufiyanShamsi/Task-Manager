@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1699805742 source:d:\bme\basics of programming\mid term\task manager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1699804254 source:d:\bme\basics of programming\mid term\task manager\main 2.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1701918008 source:c:\semester 1\basics of programming\homework\task manager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
